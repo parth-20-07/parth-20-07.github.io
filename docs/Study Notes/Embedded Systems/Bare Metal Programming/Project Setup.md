@@ -1,16 +1,13 @@
 ---
-id: AVR-C Neovim Setup
+id: Project Setup
 aliases:
-  - AVR-C Neovim Setup
+  - Project Setup
 tags: []
 ---
 
+# Project Setup
 
-# AVR-C Neovim Setup
-
-## Setup
-
-### Makefile
+## Makefile
 
 ```makefile
 :default:
@@ -20,10 +17,14 @@ tags: []
 	sudo avrdude -F -V -c arduino -p ATMEGA328P -P /dev/ttyUSB0 -b 115200 -U flash:w:main.hex
 ```
 
-### LSP
+## LSP
 
 Enable LSP by generating compiledb as follows:
 
 ```bash
 compiledb make
 ```
+
+## Resources
+
+- [ Getting Started with Baremetal Arduino C Programming | No IDE Required [Linux SDK] ](https://youtu.be/j4xw8QomkXs?si=E9jAcrLB5qtrrXxL)

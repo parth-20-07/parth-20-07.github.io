@@ -84,6 +84,7 @@
 - [ ] Boston Dynamics (Liana Tutt)
 - [ ] [http://www.apple.com/jobs/us/index.html](http://www.apple.com/jobs/us/index.html)
 - [x] https://www.medtronic.com/us-en/index.html
+- [ ] Nintendo
 - [ ] stealth startup
 - [ ] autosky aerospace pvt ltd
 - [ ] serve robotics
