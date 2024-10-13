@@ -16,20 +16,36 @@ tags: []
 - [ ] Khel Khel Mein
 - [x] Good Newwz
 
-### Hollywood
-
-#### Horror
-
-- [ ] Polaroid (2019)
-- [ ] The Skin I live in (2011)
+### Gujarati
+- [ ] Shu Thayu
 
 ## Series
 
+- [ ] louder milk
+- [ ] sacred Games
+- [ ] lost
+- [ ] arcane
+- [ ] inside job (sitcom)
+- [ ] aashram
+- [ ] yellow jacket
+- [ ] family man
+- [ ] mirzapur
+- [ ] dark
+- [ ] house of cards
+- [ ] ozark
+- [ ] office
+- [ ] blue mountain state
+- [ ] vikings
+- [ ] game of thrones
+- [ ] prison break
+- [ ] orange is the new black
+- [ ] the pysch
+- [ ] fleebag (sitcom)
 - [ ] Taaza Khabar - BBKiVines
 - [ ] Raised by Wolves
 - [ ] 3 body problem
 - [ ] Avenue 5
-- [ ] Ultraman: Dad Core
+- [x] Ultraman: Dad Core
 
 
 ## Anime
