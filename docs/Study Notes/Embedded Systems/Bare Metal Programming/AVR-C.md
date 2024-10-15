@@ -16,6 +16,10 @@ tags: []
 - binutils-avr : https://archlinux.org/packages/extra/x86_64/avr-binutils/
 - gcc-avr : https://gcc.gnu.org/wiki/avr-gcc
 
+## Datasheets
+
+- ATMEGA328P Datasheet: [Micron Website](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
+
 ## Resources
 - ATMEL ATMEGA328P: [Fundamentals of Microcontrollers - Arduino bare-metal breakdown](https://youtube.com/playlist?list=PLNyfXcjhOAwOF-7S-ZoW2wuQ6Y-4hfjMR&si=u5KyHWSEBlO6Th2I)
 - ATMEL ATMEGA32: [NewbieHack - Microcontroller Tutorial - A Beginners Guide](https://youtube.com/playlist?list=PLE72E4CFE73BD1DE1&si=lX2EOKGGcx_GrBWj)

@@ -13,7 +13,7 @@ tags: []
 
 #### Comedy
 
-- [ ] Khel Khel Mein
+- [x] Khel Khel Mein
 - [x] Good Newwz
 
 ### Gujarati
