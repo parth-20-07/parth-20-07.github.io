@@ -8,6 +8,10 @@ tags: []
 # Movie/Series List
 
 ## Movies
+### Hollywood
+
+#### Horror
+- [ ] The Substance
 
 ### Bollywood
 
