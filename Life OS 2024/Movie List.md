@@ -11,7 +11,7 @@ tags: []
 ### Hollywood
 
 #### Horror
-- [ ] The Substance
+- [x] The Substance
 
 ### Bollywood
 

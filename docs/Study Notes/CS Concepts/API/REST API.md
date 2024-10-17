@@ -19,17 +19,19 @@ REST API is a set of rules standardized to make API.
 
 - Simple and Standardized: No worry about formatting. Data is Standardized as JSON.
 - Scalable: Easy to grow as application grows.
+- Client-Server architecture: Offloads computation to a server rather than on client side.
 - Stateless: Does not Store Data on the Client side during request or response.
-- High Performance due to caching.
+- Layered System & Cacheibility: The system can save precalculated results for systems that don't change.
 
 ### Operations
 
 HTTP API work on the CRUD Base. REST Equivalent are:
 
-- C: Create -> POST
-- R: Read -> GET
-- U: Update -> PUT
-- D: Delete -> DELETE
+- C: Create -> POST : Add New Data to the Server
+- R: Read -> GET : Fetch Data from the server
+- U: Update -> PUT : Complete Replacement of resource in server
+- D: Delete -> DELETE : Delete Data from the Server
+- PATCH : Partical Update a resource in Server
 
 ### Structure of REST
 
@@ -71,9 +73,6 @@ classDiagram
 Response : Status Code
 Response : JSON Response
 ```
-
-
-
 
 ## Language Specific Guide
 

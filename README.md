@@ -6,6 +6,7 @@
 
 [[Job Application Tracker]]
 [[Movie List|Movie/Series List]]
+[[Catalogue list]]
 
 ---
 # Yearly Goals
