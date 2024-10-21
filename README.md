@@ -7,6 +7,8 @@
 [[Job Application Tracker]]
 [[Movie List|Movie/Series List]]
 [[Catalogue list]]
+[[Shopping List]]
+
 
 ---
 # Yearly Goals

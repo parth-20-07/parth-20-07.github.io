@@ -80,6 +80,7 @@
 - [x] [**farm-ng**](https://farm-ng.com/pages/careers) (6 roles)
 - [x] [Chef Robotics](https://www.linkedin.com/company/chef-robotics/)
 - [ ] Moss
+- [ ] procept Robotics 
 - [ ] https://www.roboticscareer.org/
 - [ ] Boston Dynamics (Liana Tutt)
 - [ ] [http://www.apple.com/jobs/us/index.html](http://www.apple.com/jobs/us/index.html)
