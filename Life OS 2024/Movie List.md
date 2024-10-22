@@ -10,9 +10,11 @@ tags: []
 ## Movies
 ### Hollywood
 
+- [ ] Percy Jackson
+
 #### Horror
 - [x] The Substance
-- [ ] Subservience
+- [x] Subservience
 
 ### Bollywood
 

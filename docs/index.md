@@ -1,3 +1,10 @@
+---
+id: index
+aliases:
+  - About Me
+tags: []
+---
+
 # About Me
 
 > Robotics Engineer and Product Developer
@@ -27,7 +34,7 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 	- Developed C++/ROS based Robust and Self Correcting tightly coupled LIDAR, Vision and IMU Based Algorithm for Autonomous Simultaneous Localization and Mapping (SLAM) for x86 Architecture with improved algorithm performance by CPU Load Balancing using Parallel Processing on Frame Data, reducing processing time by 23%
 - **Computational Scientist**, *Worcester Polytechnic Institute*
 	- Developed a mobile platform framework for generating 3D Visualization Models for University Labs to construct a platform meant for Virtual tours which enabled immersive virtual tours for prospective students and individuals facing travel challenges, significantly enhancing accessibility and engagement.
-	- Focused on developing a framework for Camera, IMU and LIDAR-based sensor fusion for localization to implement NeRF (Neural Radiance Fields) based environment reconstruction and designing a Human-Robot Interaction platform to enhance user experience and interaction capabilities.
+	- Focused on developing a framework for Camera, IMU and LIDAR-based sensor fusion for localization to implement NERF (Neural Radiance Fields) based environment reconstruction and designing a Human-Robot Interaction platform to enhance user experience and interaction capabilities.
 - **Augmented Reality Developer**, *Worcester Polytechnic Institute*
 	- I was privileged to be part of an exciting Augmented Reality (AR) project that has the potential to reshape how technicians work. Our focus was to empower technicians with hands-free data visualization.
 	- **Hands-Free Data Visualization**: I led the development of an AR application that allowed technicians to visualize critical data, graphs, and readings from tools like multimeter without taking their hands off their tasks.
@@ -43,7 +50,7 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 ## Research Experience
 
 - Collaborative Simultaneous Localization and Mapping (SLAM) for Low-End Swarm Robots | *C++, ROS, Gazebo* | *June' 24 - Aug' 24*
-	- Developed and deployed a decentralized collaborative SLAM system for Homogenous swarm robots, enhancing autonomous navigation through lightweight occupancy grid map development focusing on robot count scalability and simpler map merging with dimensional error under 2.5%.
+	- Developed and deployed a decentralized collaborative SLAM system for Homogeneous swarm robots, enhancing autonomous navigation through lightweight occupancy grid map development focusing on robot count scalability and simpler map merging with dimensional error under 2.5%.
 - Advanced SLAM Algorithms Implementation and Analysis | *C++, Python, ROS, Gazebo* | *Sept’23 – Dec’23*
 	* Deployed, Tested and Analyzed innovative SLAM technologies, including LIMO, LVI-SAM, LIO-SAM, VINS-MONO, Faster-LIO, LOAM, and EMV-LIO, to benchmark their performance and finding key metrics such as accuracy, environment layout, and robustness under various conditions while critically analyzing and adapting these frameworks to enhance their functionality and performance.
 
@@ -72,7 +79,7 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 
 ## Achievements
 
-- Awarded **INR 1,00,000** grant by the **Government of Gujarat, India**, to launch a startup researching multitool heads for 3D printers, reducing prototyping time by 86% and costs by 18%.
+- Awarded **INR 1,00,000** grant by the **Government of Gujarat, India**, to launch a startup researching multi tool heads for 3D printers, reducing prototyping time by 86% and costs by 18%.
 - Secured **$10,000** in funding from **Worcester Polytechnic Institute** to develop an advanced robotics mobile platform for 3D scanning and reconstruction, significantly enhancing accessibility and engagement.
 ## Certification
 ### Machine Learning Specialization

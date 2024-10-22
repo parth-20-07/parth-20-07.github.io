@@ -10,7 +10,7 @@ tags: []
 
 ## File Structure
 
-The Most Basic structure of a c++ porject looks as follows:
+The Most Basic structure of a c++ project looks as follows:
 
 ```bash
 ❯ tree -L 1
@@ -37,7 +37,7 @@ The Most Basic structure of a c++ porject looks as follows:
 2. `Ninja` : Build system to compile the project.
 3. `gcc` : Compiler for the project.
 4. `vcpkg` : Package Manager for C/C++. Should be added as submodule to your project.
-5. `invoke` : Python Library to run the Cmake Configurations.
+5. `invoke` : Python Library to run the CMake Configurations.
 
 #### Folders
 
@@ -53,7 +53,7 @@ The Most Basic structure of a c++ porject looks as follows:
 1. `CmakeLists.txt` : Contains the build guide for the codebase including pointing towards the needed libraries and compilation options.
 2. `compile_commands.json` : Contains the Intellisense information for the IDEs.
 3. `README.md` : Project Information for people to build and understand
-4. `tasks.py` : Script containing `invoke` which makes it easier to call CMake with custom commmands.
+4. `tasks.py` : Script containing `invoke` which makes it easier to call CMake with custom commands.
 5. `vcpkg.json` : Used by `vcpkg` to hold the libraries requested by user.
 
 ---
@@ -62,7 +62,7 @@ The Most Basic structure of a c++ porject looks as follows:
 
 1. `mkdir && cd` Project Directory
 
-2. Intialize Git
+2. Initialize Git
     ```bash
     git init
     ```
@@ -151,7 +151,7 @@ The Most Basic structure of a c++ porject looks as follows:
     
     @task
     def config(c):
-        """Run cmake configure."""
+        """Run Make configure."""
         do_config(c)
     
     
@@ -181,7 +181,7 @@ The Most Basic structure of a c++ porject looks as follows:
     
     @task
     def build(c, config=False):
-        """Run builds via cmake."""
+        """Run builds via CMake."""
         build_path = get_build_path()
     
         if not build_path.exists():
@@ -197,7 +197,7 @@ The Most Basic structure of a c++ porject looks as follows:
     
     @task
     def install(c):
-        """Run install via cmake."""
+        """Run install via CMake."""
         build_path = get_build_path()
         install_path = get_install_path()
     

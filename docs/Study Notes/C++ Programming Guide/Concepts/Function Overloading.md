@@ -1,3 +1,10 @@
+---
+id: Function Overloading
+aliases:
+  - Function Overloading
+tags: []
+---
+
 # Function Overloading
 
 ## Notes
