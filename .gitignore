@@ -5,3 +5,4 @@ site/*
 assets-large
 .resize-hash
 .trash/*
+.venv/*

@@ -80,6 +80,8 @@ plugins:
       categories:
         - categories
         - tags
+  - git-revision-date-localized:
+      type: date
 
 extra_javascript:
   - javascripts/mathjax.js

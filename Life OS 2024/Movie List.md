@@ -29,7 +29,7 @@ tags: []
 ## Series
 
 - [ ] louder milk
-- [ ] sacred Games
+- [x] sacred Games
 - [ ] lost
 - [ ] arcane
 - [ ] inside job (sitcom)
