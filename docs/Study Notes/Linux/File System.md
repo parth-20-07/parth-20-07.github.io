@@ -1,18 +1,21 @@
+---
+id: File System
+aliases:
+  - File System
+tags: []
+---
+
 # File System
 
-**Table of Contents**
+## Basics
 
- 
-
-# Basics
-
-## FHS
+### FHS
 
 https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
 
-FHS: Filesystem Hierarchy Standard
+FHS: File system Hierarchy Standard
 
-## What each file system Hold
+### What each file system Hold
 
 - /bin: Essential Command Binaries used across system like bash, cat, etc
 - /sbin: Essential System Binaries useful for mostly system admin accounts
@@ -36,8 +39,7 @@ FHS: Filesystem Hierarchy Standard
 - /var: Variable Data
 - /home: User Home Directories
 
-# Resources
+## Resources
 
-https://youtu.be/HbgzrKJvDRw?si=tcjstP0dKomPCBzP
-
-https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
+- [https://youtu.be/HbgzrKJvDRw?si=tcjstP0dKomPCBzP](https://youtu.be/HbgzrKJvDRw?si=tcjstP0dKomPCBzP)
+- [https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
