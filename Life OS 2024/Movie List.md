@@ -11,6 +11,7 @@ tags: []
 ### Hollywood
 
 - [ ] Percy Jackson
+- [ ] the last ship
 
 #### Horror
 - [x] The Substance
@@ -28,6 +29,7 @@ tags: []
 
 ## Series
 
+- [ ] A Discovery of Witches
 - [ ] louder milk
 - [x] sacred Games
 - [ ] lost
