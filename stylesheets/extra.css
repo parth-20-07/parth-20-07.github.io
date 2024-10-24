@@ -1,0 +1,23 @@
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #2e303e; /*header bg color*/
+    --md-primary-bg-color: #6be4e6; /*header font color*/
+	
+    --md-default-bg-color: #1c1e26; /*page bg color*/
+	--md-default-fg-color: #6be4e6; /* page font color*/
+    
+    --md-default-fg-color--light: #e9436d; /*h1 tag color*/
+    --md-typeset-a-color: #FAB38E; /*Active Tag and Links*/
+}
+
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #FDF0ED; /*header bg color*/
+    --md-primary-bg-color: #DA103F; /*header font color*/
+	
+    --md-default-bg-color: #FDF0ED; /*page bg color*/
+	--md-default-fg-color: #DA103F; /* page font color*/
+    
+    --md-default-fg-color--light: #E73665; /*h1 tag color*/
+    --md-typeset-a-color: #AF5427; /*Active Tag and Links*/
+    
+}
+
