@@ -54,6 +54,7 @@ tags: []
 - [ ] Raised by Wolves
 - [ ] 3 body problem
 - [ ] Avenue 5
+- [ ] Young and Hungry
 - [x] Ultraman: Dad Core
 
 
