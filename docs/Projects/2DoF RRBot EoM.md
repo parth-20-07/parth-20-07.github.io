@@ -18,9 +18,9 @@ tags: []
 
 I worked on deriving the equation of motion by taking the derivatives of the Lagrangian Function. This method is called as Euler-Lagrange Method.
 
-The Lagrange Equation uses the terms Kinetic and Potential Energy of the system. Where,
+![[RRBot.png]]
 
-$LE = KE - PE$
+The Lagrange Equation uses the terms Kinetic and Potential Energy of the system. Where: $LE = KE - PE$
 
 The Euler-Lagrangian Equations can be derived by taking a derivative of the Lagrangian Equations. Where,␍
 
@@ -29,3 +29,6 @@ $$
 $$
 
 This would result in an equation of form $a\ddot{q} + b\dot{q} + c{q} + d = 0$. We solve for $\ddot{q_{i}}$ which results in the equation of motion for the system. This system does not contain any form of input. Thus, $u_{i} = 0$ for all joints.
+
+
+![[rrbot-eom.gif]]
