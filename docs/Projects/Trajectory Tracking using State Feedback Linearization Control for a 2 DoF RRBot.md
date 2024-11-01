@@ -19,3 +19,18 @@ tags: []
 - Equation of Motion: The project starts by calculating the equation of motion for the system, laying the groundwork for controller design.
 - Controller Design: The design of the controller involves creating a matrix-based feedback system that integrates with the dynamic equations of the robotic arm.
 
+## Results
+
+Joint 1:
+
+![[rrbotsf-comparision_theta1.jpg]]
+![[rrbotsf-comparision_dtheta1.jpg]]
+
+Joint 2:
+
+![[rrbotsf-comparision_theta2.jpg]]
+![[rrbotsf-comparision_dtheta2.jpg]]
+
+Simulation:
+
+![[rrbotsf-MATLAB Simulation.gif]]
