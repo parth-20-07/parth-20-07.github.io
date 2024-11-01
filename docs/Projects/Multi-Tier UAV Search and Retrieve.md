@@ -13,6 +13,9 @@ tags: []
 > Project date: February, 2023
 
 > GitHub URL: [parth-20-07/Multi-Tier-UAV-Search-and-Retrieve](https://github.com/parth-20-07/Multi-Tier-UAV-Search-and-Retrieve)
+## Project Video
+
+[![Project Video](https://img.youtube.com/vi/ElPuGj_Wy78/0.jpg)](https://www.youtube.com/watch?v=ElPuGj_Wy78)
 
 ## Brief Introduction on Project
 
@@ -22,4 +25,17 @@ We aim to leverage the unique capabilities of our fleet of drones, including the
 
 Overall, the use of drones in search and rescue operations can save time, resources, and potentially, lives. This project aims to demonstrate the potential of drones in real-world applications and advance the field of search and rescue operations. 
 
-[![Project Video](https://img.youtube.com/vi/ElPuGj_Wy78/0.jpg)](https://www.youtube.com/watch?v=ElPuGj_Wy78)
+### Drones
+
+![[Drone 1.png]]
+
+![[Drone 2.png]]
+
+![[Drone 3.png]]
+
+### Results
+
+![[Perspective View.png]]
+
+![[trajectory-sar.png]]
+
