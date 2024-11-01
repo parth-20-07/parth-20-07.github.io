@@ -15,6 +15,10 @@ tags: []
 
 ## Brief Introduction on Project
 
+![[usm-Drone Frames.png]]
+
+![[usm-Gazebo.png]]
+
 This project focuses on developing a robust control scheme to enable a quadrotor, specifically the Crazyflie 2.0 MAV, to track desired 3D trajectories effectively in the presence of external disturbances. The control design is tested on the Crazyflie 2.0 platform, known for its compact size and crash tolerance, ideal for indoor flight experiments.
 
 - Technical Setup: Built and tested on Ubuntu 20.04 LTS with ROS Noetic, ensuring a stable development environment for UAV control systems.
@@ -22,3 +26,18 @@ This project focuses on developing a robust control scheme to enable a quadrotor
 - Trajectory Generation: Implementation of MATLAB or Python scripts to generate quintic trajectories, guiding the UAV through a series of waypoints with precise control.
 
 The project showcases advanced control in UAV trajectory tracking, integrating theoretical concepts with practical UAV applications. 
+
+## Results
+
+Desired Trajectory:
+
+![[usm-des_traj.png]]
+
+UAV Trajectory:
+
+![[usm-trajectory.png]]
+
+Simulation:
+
+![[usm-Drone Trajectory Control _ Sliding Mode Control.gif]]
+
