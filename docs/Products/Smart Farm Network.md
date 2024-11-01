@@ -37,3 +37,17 @@ Key functions include:
 - OTA updates for firmware.
 
 This project stands as a testament to innovative solutions in precision agriculture technology.
+
+## Schematics
+
+![[sf-Schematic.png]]
+
+## PCB
+
+Top View:
+
+![[sf-PCB Top.png]]
+
+Bottom View:
+
+![[sf-PCB Bottom.png]]
