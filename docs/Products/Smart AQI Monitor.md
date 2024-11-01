@@ -8,9 +8,6 @@ tags: []
 
 # Smart AQI Monitor
 
-> Developed at: Worcester Polytechnic Institute
-
-> Project date: June, 2022
 
 > GitHub URL: [parth-20-07/Smart-AQI-Monitor](https://github.com/parth-20-07/Smart-AQI-Monitor) 
 

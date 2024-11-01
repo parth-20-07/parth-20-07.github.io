@@ -8,6 +8,8 @@ tags: []
 
 # Bluetooth Low Energy Smart Switch 
 
+> GitHub URL: [parth-20-07/BLE-Smart-Switch](https://github.com/parth-20-07/BLE-Smart-Switch)
+
 ## Product Renders
 
 ![[ble-sw-1.png]]
@@ -20,9 +22,6 @@ tags: []
 ## Product Schematics
 ![[ble-sw-6.png]]
 
-> Project date: December, 2021
-
-> GitHub URL: [parth-20-07/BLE-Smart-Switch](https://github.com/parth-20-07/BLE-Smart-Switch)
 
 ## Brief Introduction on Project
 

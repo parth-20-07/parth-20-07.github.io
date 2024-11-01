@@ -7,6 +7,8 @@ tags: []
 
 # Inventory Management System
 
+> GitHub URL: [parth-20-07/Inventory-Management-System](https://github.com/parth-20-07/Inventory-Management-System)
+
 ## Product Photos
 
 ![[ims-1.png]]
@@ -14,9 +16,6 @@ tags: []
 ![[ims-3.png]]
 
 
-> Project date: March, 2022
-
-> GitHub URL: [parth-20-07/Inventory-Management-System](https://github.com/parth-20-07/Inventory-Management-System)
 
 ## Brief Introduction on Project
 

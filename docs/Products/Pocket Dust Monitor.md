@@ -8,6 +8,8 @@ tags: []
 
 # Pocket Dust Monitor
 
+> GitHub URL: [parth-20-07/Pocket-Dust-Monitor](https://github.com/parth-20-07/Pocket-Dust-Monitor)
+
 ## Product Renders
 
 ![[dm-1.png]]
@@ -23,9 +25,6 @@ tags: []
 ![[dm-Top.png]]
 ![[dm-Bottom.png]]
 
-> Project date: March, 2022
-
-> GitHub URL: [parth-20-07/Pocket-Dust-Monitor](https://github.com/parth-20-07/Pocket-Dust-Monitor)
 
 ## Brief Introduction on Project
 

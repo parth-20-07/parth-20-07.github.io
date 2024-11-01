@@ -8,6 +8,8 @@ tags: []
 
 # Pocket CO2 Monitor 
 
+> GitHub URL: [parth-20-07/Pocket-CO2-Monitor](https://github.com/parth-20-07/Pocket-CO2-Monitor)
+
 ## Product Renders
 
 ![[co2-1.png]]
@@ -26,9 +28,6 @@ tags: []
 ![[co2-Top.png]]
 ![[co2-Bottom.png]]
 
-> Project date: May, 2022
-
-> GitHub URL: [parth-20-07/Pocket-CO2-Monitor](https://github.com/parth-20-07/Pocket-CO2-Monitor)
 
 ## Brief Introduction on Project
 
