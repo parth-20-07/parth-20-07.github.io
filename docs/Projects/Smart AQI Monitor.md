@@ -16,6 +16,8 @@ tags: []
 
 ## Brief Introduction on Project
 
+![[sm-aqi-bg.png]]
+
 The Smart AQI Monitor is a sophisticated wall-mounted device designed to measure various air quality parameters and send it to a centralized database for logging and online monitoring. This device is built for industrial applications and is equipped with EU accepted sensors, ensuring accurate and reliable measurements.
 
 The device measures: 
