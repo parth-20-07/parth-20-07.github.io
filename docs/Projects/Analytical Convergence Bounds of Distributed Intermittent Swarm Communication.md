@@ -13,6 +13,11 @@ tags: []
 
 > GitHub URL: [parth-20-07/Analytical-Convergence-Bounds-of-Distributed-Intermittent-Swarm-Communication](https://github.com/parth-20-07/Analytical-Convergence-Bounds-of-Distributed-Intermittent-Swarm-Communication)
 
+
+![[ani-1.gif]]
+
+![[ani-2.gif]]
+
 ## Brief Introduction on Project
 
 In this project, we propose a deterministic threshold model for facilitating distributed intermittent swarm communication.
