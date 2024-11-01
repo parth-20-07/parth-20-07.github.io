@@ -1,23 +1,47 @@
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color: #2e303e; /*header bg color*/
-    --md-primary-bg-color: #6be4e6; /*header font color*/
+    --md-primary-bg-color: white; /*header font color*/
 	
     --md-default-bg-color: #1c1e26; /*page bg color*/
-	--md-default-fg-color: #6be4e6; /* page font color*/
+	--md-default-fg-color: white; /* page font color*/
     
     --md-default-fg-color--light: #e9436d; /*h1 tag color*/
     --md-typeset-a-color: #FAB38E; /*Active Tag and Links*/
+    .md-typeset h1{
+        font-weight: 600;
+        color: #e9436d;
+    }
+    .md-typeset h2{
+        font-weight: 400;
+        color: #e9436d;
+    }
+    .md-typeset h3{
+        font-weight: 300;
+        color: #e9436d;
+    }
 }
 
 [data-md-color-scheme="default"] {
     --md-primary-fg-color: #FDF0ED; /*header bg color*/
-    --md-primary-bg-color: #DA103F; /*header font color*/
+    --md-primary-bg-color: black; /*header font color*/
 	
     --md-default-bg-color: #FDF0ED; /*page bg color*/
-	--md-default-fg-color: #DA103F; /* page font color*/
+	--md-default-fg-color: black; /* page font color*/
     
     --md-default-fg-color--light: #E73665; /*h1 tag color*/
     --md-typeset-a-color: #AF5427; /*Active Tag and Links*/
-    
+    .md-typeset h1{
+        font-weight: 600;
+        color: #E73665;
+    }
+    .md-typeset h2{
+        font-weight: 400;
+        color: #E73665;
+    }
+    .md-typeset h3{
+        font-weight: 300;
+        color: #E73665;
+    }
+
 }
 
