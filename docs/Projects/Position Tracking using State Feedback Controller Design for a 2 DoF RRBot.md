@@ -26,3 +26,6 @@ This project is focused on the design of a State Feedback Controller for a two d
 - Stability and controllability checks using eigenvalues and controllability matrix.
 - Controller design based on chosen complex poles and the calculated feedback matrix $K$.
 
+## Result
+
+![[sf-MATLAB Simulation.gif]]
