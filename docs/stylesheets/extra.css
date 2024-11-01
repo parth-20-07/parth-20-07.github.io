@@ -19,12 +19,15 @@
         font-weight: 300;
         color: #e9436d;
     }
+    .md-typeset blockquote{
+        color: #AAAAAA
+    }
 }
 
 [data-md-color-scheme="default"] {
     --md-primary-fg-color: #FDF0ED; /*header bg color*/
     --md-primary-bg-color: black; /*header font color*/
-	
+
     --md-default-bg-color: #FDF0ED; /*page bg color*/
 	--md-default-fg-color: black; /* page font color*/
     
@@ -41,6 +44,9 @@
     .md-typeset h3{
         font-weight: 300;
         color: #E73665;
+    }
+    .md-typeset blockquote{
+        color: #999999
     }
 
 }
