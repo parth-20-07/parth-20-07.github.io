@@ -27,6 +27,9 @@ The aim of the assignment is meant to get a better understanding of basic concep
     - Uses a custom service to take input of the (x,y,z) coordinates of the robot end-effector.
     - Calculate the Joint States from the end-effector position and return it as a response to the service.
 
+    ![[Gazebo Model-pid.png]]
+
+    ![[PlotJugger Set Canvas.png]]
 
 ### Assignment 2: Build a node to control Joint States
 
@@ -34,6 +37,7 @@ The aim of the assignment is meant to get a better understanding of basic concep
 - Build a Proportional-Derivative Controller that takes the current Joint States and Reference joint state to publish the control torque values to the `/forward_effort_controller/commands` topic.
 - Ensure that the model reaches the reference joint states in Gazebo.
 
+![[vel.gif]]
 
 ### Assignment 3: Build a node to control Joint or End-Effector Velocity
 
@@ -43,5 +47,6 @@ The aim of the assignment is meant to get a better understanding of basic concep
 - Based on the input, build a Proportional-Derivative controller that takes the current Joint Velocity and the Reference Joint Velocity to publish the torque values to the `forward_effort_controller/commands` topic.
 - Ensure that the model reaches the desired end-effector or joint velocity in Gazebo.
 
-## Project Photos
+![[eff.gif]]
+
 
