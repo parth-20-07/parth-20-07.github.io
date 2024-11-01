@@ -23,3 +23,5 @@ A key aspect of the project is the simulation of the system using Gazebo, incorp
 
 ![[rob-comparisiontheta1.jpg]]
 ![[rob-comparisiontheta2.jpg]]
+![[rob-comparisiondtheta1.jpg]]
+![[rob-comparisiondtheta2.jpg]]
