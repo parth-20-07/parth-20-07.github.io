@@ -19,3 +19,6 @@ Features:
 - AC Powered LED Control Board.
 - Easy to use and configure.
 
+## Schematic
+
+![[name-plate-Schematic.png]]
