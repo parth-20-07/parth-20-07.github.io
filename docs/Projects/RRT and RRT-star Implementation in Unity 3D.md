@@ -1,5 +1,5 @@
 ---
-id: RRT and RRT* Implementation in Unity 3D
+id: RRT and RRT-star Implementation in Unity 3D
 aliases:
   - RRT and RRT* Implementation in Unity 3D
 tags: []
