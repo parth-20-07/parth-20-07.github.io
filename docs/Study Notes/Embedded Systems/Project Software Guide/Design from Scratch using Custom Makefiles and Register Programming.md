@@ -1,3 +1,10 @@
+---
+id: Design from Scratch using Custom Makefiles and Register Programming
+aliases:
+  - Design from Scratch using Custom Makefiles and Register Programming
+tags: []
+---
+
 # Design from Scratch using Custom Makefiles and Register Programming
 
 ***The complete guide was written with the MCU MSP430 in mind to be specific. Still, the process remains the same for any other MCU with simply the instruction set and compiler commands changing for specific brands of MCU.***

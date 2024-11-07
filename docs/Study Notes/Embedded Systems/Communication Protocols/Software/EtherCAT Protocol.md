@@ -1,3 +1,10 @@
+---
+id: EtherCAT Protocol
+aliases:
+  - EtherCAT Protocol
+tags: []
+---
+
 # EtherCAT Protocol
 
 **Table of Contents**

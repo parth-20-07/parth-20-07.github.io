@@ -1,3 +1,10 @@
+---
+id: SWD Serial Wire Debug
+aliases:
+  - SWD (Serial Wire Debug)
+tags: []
+---
+
 # SWD (Serial Wire Debug)
 
 **Table of Contents**

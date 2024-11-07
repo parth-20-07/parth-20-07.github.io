@@ -1,3 +1,10 @@
+---
+id: ESD Protection
+aliases:
+  - ESD Protection
+tags: []
+---
+
 # ESD Protection
 
 ---

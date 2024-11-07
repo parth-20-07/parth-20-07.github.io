@@ -1,3 +1,10 @@
+---
+id: JTAG Joint Test Action Group
+aliases:
+  - JTAG (Joint Test Action Group)
+tags: []
+---
+
 # JTAG (Joint Test Action Group)
 
 **Table of Contents**

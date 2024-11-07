@@ -1,3 +1,10 @@
+---
+id: OpenOCD Open On-Chip Debugger
+aliases:
+  - OpenOCD (Open On-Chip Debugger)
+tags: []
+---
+
 # OpenOCD (Open On-Chip Debugger)
 
 **Table of Contents**

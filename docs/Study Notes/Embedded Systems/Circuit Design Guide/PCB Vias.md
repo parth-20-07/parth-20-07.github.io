@@ -1,3 +1,10 @@
+---
+id: PCB Vias
+aliases:
+  - PCB Vias
+tags: []
+---
+
 # PCB Vias
 
 ---

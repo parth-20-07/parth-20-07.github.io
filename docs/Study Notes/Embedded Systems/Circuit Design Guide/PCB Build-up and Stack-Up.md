@@ -1,3 +1,10 @@
+---
+id: PCB Build-up and Stack-Up
+aliases:
+  - PCB Build-up and Stack-Up
+tags: []
+---
+
 # PCB Build-up and Stack-Up
 
 ---

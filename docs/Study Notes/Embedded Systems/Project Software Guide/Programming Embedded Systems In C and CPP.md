@@ -1,3 +1,10 @@
+---
+id: Programming Embedded Systems In C and CPP
+aliases:
+  - Programming Embedded Systems In C and C++
+tags: []
+---
+
 # Programming Embedded Systems In C and C++
 
 ## Chapter 3: Compiling,

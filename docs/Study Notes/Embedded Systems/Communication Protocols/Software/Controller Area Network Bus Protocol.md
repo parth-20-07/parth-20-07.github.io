@@ -1,3 +1,10 @@
+---
+id: Controller Area Network Bus Protocol
+aliases:
+  - Controller Area Network Bus Protocol
+tags: []
+---
+
 # Controller Area Network Bus Protocol
 
 ---
