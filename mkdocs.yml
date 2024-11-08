@@ -73,19 +73,6 @@ extra_javascript:
 plugins:
   - search
   - roamlinks
-  - resize-images:
-      source-dir: large
-      target-dir: resized
-      enable_cache: True
-      size: [400, 300]
-      extensions: ['.jpg', '.jpeg', '.png', '.gif', '.svg']
-  - rss:
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
   - git-revision-date-localized:
       type: date
 
