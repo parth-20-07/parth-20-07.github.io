@@ -7,18 +7,9 @@ tags: []
 
 # PCB Vias
 
----
-
-**Table of Contents**
-
----
-
 # Basics
 
-<aside>
-⏰ **Vias are Vertical connections in the third dimension(Z) of a PCB**
-
-</aside>
+**Vias are Vertical connections in the third dimension(Z) of a PCB**
 
 - Used for connection between layers allowing traces to ‘jump’ between layers in PCB.
 - Can be used to improve air circulation around PCB for better thermals.
@@ -27,14 +18,11 @@ tags: []
 
 ## Parameters
 
-![Untitled](docs/Study%20Notes/Embedded%20Systems%20Hardware/PCB%20Vias%207f8bc84528d841c4aebebf2898b7fa27/Untitled.png)
+![[pcb_via.png]]
 
 - Minimum Drill Size and Annular Ring Size are provided by the manufacturer based on their machine specifications.
 
-<aside>
-⚠️ It is always suggested to set the PCB software minimum tolerances higher than manufacturer tolerances to avoid the risk of error in manufacturing.
-
-</aside>
+It is always suggested to set the PCB software minimum tolerances higher than manufacturer tolerances to avoid the risk of error in manufacturing.
 
 ## Current Handling
 

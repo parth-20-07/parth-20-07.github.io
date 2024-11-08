@@ -1,4 +1,10 @@
 ---
+id: CGD_PCB_Build-up_and_Stack-Up
+aliases:
+  - PCB Build-up and Stack-Up
+tags: []
+---
+
 id: PCB Build-up and Stack-Up
 aliases:
   - PCB Build-up and Stack-Up
@@ -7,17 +13,11 @@ tags: []
 
 # PCB Build-up and Stack-Up
 
----
-
-**Table of Contents**
-
----
-
 # Concepts
 
 ## Build-Up
 
-![Untitled](docs/Study%20Notes/Embedded%20Systems%20Hardware/PCB%20Build-up%20and%20Stack-Up%20090d39b4318f4be6aba429c006fd9f92/Untitled.png)
+![[pcb_material.png]]
 
 Build-up related to the physical construction of the board. Primary things to consider are:
 
@@ -33,7 +33,7 @@ Build-up related to the physical construction of the board. Primary things to co
 
 ---
 
-![Untitled](Untitled%201.png)
+![[pcb_layer.png]]
 
 **Layer Count**
 
@@ -139,7 +139,7 @@ Goals of a good stack up are:
 - Signal Energy flows between copper layers in High Frequency DC/AC. i.e. keep these layers as close as possible.
 - **Avoid Fields from Spreading**
     
-    ![Untitled](Untitled%202.png)
+    ![[pcb_power_layer.png]]
     
     - Spreading fields means coupling from signal to signal → Crosstalk
     - Spreading fields means some form of unwanted radiation → EMI

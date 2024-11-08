@@ -423,7 +423,7 @@ As seen here, the pointer is passed to be an object which allows you to modify t
 
 ⚠️ *Warning: The `new` keyword might be new (pun intended) for you. You can look into it further by clicking here*: 
 
-[`new` keyword](new.md)
+[[CPP_new|`new` keyword]]
 
 ❗ When working with inherited classes, the correct format is:
 
