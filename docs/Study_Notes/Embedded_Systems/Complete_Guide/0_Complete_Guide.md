@@ -25,3 +25,4 @@ The complete documentation is done based on the guide provided on the YouTube ch
 2. [[2_Design_Choices_for_Hardware | Design Choices for Hardware]]
 3. [[3_Install_IDE_and_Test_Board | Install IDE and Run Hello World]]
 4. [[4_Programming_Without_IDE | Programming without an IDE]]
+5. [[5_Software_Architecture_for_Projects|Software Architecture for Projects]]
