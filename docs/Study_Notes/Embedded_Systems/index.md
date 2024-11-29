@@ -51,6 +51,10 @@ tags: []
 - [[CDG_Proper_Grounding|Proper Grounding]]
 - [[CGD_PCB_Build-up_and_Stack-Up|PCB Build-up and Stack-Up]]
 
+### Power Design
+- [[CGD_Power_Distribution_Board|Power Distribution System
+- [[PSD_Battery_Design|Battery Design]]
+
 ---
 ## Component Design Guide
 
