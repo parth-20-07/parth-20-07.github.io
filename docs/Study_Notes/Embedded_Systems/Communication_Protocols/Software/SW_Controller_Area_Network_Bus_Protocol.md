@@ -16,7 +16,6 @@ tags: []
 **Table of Contents**
 
 # Concepts
-
 # Resources
 
 [Texas Instruments - Introduction to the Controller Area Network (CAN)](https://www.ti.com/lit/an/sloa101b/sloa101b.pdf)

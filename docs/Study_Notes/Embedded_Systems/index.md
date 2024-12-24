@@ -38,7 +38,7 @@ tags: []
 
 ### Design Software
 
-- [[CDG_Altium_Designer|Altium Designer]]
+- [[SG_Altium_Designer|Altium Designer]]
 
 ### Communication Protocols
 
