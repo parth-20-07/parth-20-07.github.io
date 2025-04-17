@@ -11,6 +11,10 @@ tags: []
 
 These are lower level protocols which focus on the Physical and Data Link
 
+CAN Physical Data Frame:
+
+![[00_CAN_Data_Frame.png]]
+
 Types:
 - CAN 2.0A: 11bit ID, 8 byte Data, 1 Mbps
 - CAN 2.0B: 11/29bit ID, 8 byte Data, 1 Mbps
@@ -31,6 +35,7 @@ Types:
 ## CANopen
 
 Extensive Guide: [YouTube: CANopen Course - EmSA CANopen](https://youtube.com/playlist?list=PLXc1T5NMSXQufsSlsN6unfDxT6ojiK_sn&si=6XUcZh8HnZZHbiwL)
+Practical Guide: [YouTube:  CANOpen Node STM32 From basics to coding ](https://youtu.be/R-r5qIOTjOo?si=hjjJt6-FHXHmk5BB)
 
 CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to enable a standardisation and advance features over traditional CAN Protocol.
 
@@ -138,6 +143,8 @@ PDO:
 
 ## Resources
 
+### Theory
+
 [YouTube: CANopen Course - EmSA CANopen](https://youtube.com/playlist?list=PLXc1T5NMSXQufsSlsN6unfDxT6ojiK_sn&si=6XUcZh8HnZZHbiwL)
 
 [Texas Instruments - Introduction to the Controller Area Network (CAN)](https://www.ti.com/lit/an/sloa101b/sloa101b.pdf)
@@ -151,3 +158,7 @@ PDO:
 [CAN Bus: A Beginners Guide Part 2](https://youtu.be/z5CVljiLhvc?si=EGW0jlv_eU0BY4Zc)
 
 [Arm Semiconductors - CAN Primer: Creating your own Network](https://grouper.ieee.org/groups/msc/upamd/pub_docs/CAN.pdf)
+
+### Practical Implementation Guide
+
+[YouTube:  CANOpen Node STM32 From basics to coding ](https://youtu.be/R-r5qIOTjOo?si=hjjJt6-FHXHmk5BB)
