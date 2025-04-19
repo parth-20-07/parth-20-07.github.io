@@ -37,6 +37,7 @@ Types:
 ## CANopen
 
 Extensive Guide: [YouTube: CANopen Course - EmSA CANopen](https://youtube.com/playlist?list=PLXc1T5NMSXQufsSlsN6unfDxT6ojiK_sn&si=6XUcZh8HnZZHbiwL)
+
 Practical Guide: [YouTube:  CANOpen Node STM32 From basics to coding ](https://youtu.be/R-r5qIOTjOo?si=hjjJt6-FHXHmk5BB)
 
 CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to enable a standardisation and advance features over traditional CAN Protocol.
