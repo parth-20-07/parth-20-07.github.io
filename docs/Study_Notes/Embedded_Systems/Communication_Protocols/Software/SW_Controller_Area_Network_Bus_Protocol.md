@@ -41,7 +41,6 @@ Practical Guide: [YouTube:  CANOpen Node STM32 From basics to coding ](https://y
 CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to enable a standardisation and advance features over traditional CAN Protocol.
 
 ### Why is it needed?
-There are some standard challenges in CAN Protocol:
 - How do you detect device connectivity (Heartbeat in CANOpen)
 - How do you figure out configuration change? (Configuration of Frequency in CANOpen)
 - Standardisation to connect to any device off-market without requiring special configurations.
