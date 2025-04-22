@@ -55,6 +55,17 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
 
 ### Important Concepts
 
+- **Network Management (NMT)**
+	- Used to execute NMT Services which are used for device initialization, started, monitored or stopped
+	- Works in Master/Slave Structure with Node being NMT Master.
+		- Bootup: Transmitted upon device initialisation to inform other nodes about its existence.
+	- Master can control operating states of nodes:
+		- Request state change
+		- Request Reset
+- **Synchronization (SYNC)**
+- **Emergency (EMCY)**
+		- Emergency: Triggered by the occurrence of CANopen device internal error and are transmitted once for each error
+- **TimeStamp (TIME) (PDO)**
 - **Process Data Objects (PDO)**
 	- Real-time data transfer from single node to other nodes
 	- No protocol overhead
@@ -74,17 +85,8 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
 		- Peer to Peer reliable communication
 		- Configuring a device at startup
 		- Transferring large amount of data with acknowledgement
-- **Network Management Object**
-	- Used to execute NMT Services which are used for device initialization, started, monitored or stopped
-	- Works in Master/Slave Structure with Node being NMT Master.
-	- Nodes report basic state information:
-		- Emergency: Triggered by the occurrence of CANopen device internal error and are transmitted once for each error
-		- Heartbeat: Transmitted cyclically by node. Informs other node about connection status of the current producer node.
-		- Bootup: Transmitted upon device initialisation to inform other nodes about its existence.
-	- Master can control operating states of nodes:
-		- Request state change
-		- Request Reset
-
+- **Node Monitoring (Heartbeat) (SDO)**
+	- Heartbeat: Transmitted cyclically by node. Informs other node about connection status of the current producer node.
 
 **CANOpen Initialisation Process on Node**
 
@@ -112,7 +114,6 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
 	- 2000h - 5fffh: Manufacturer Specfic data
 	- 6000h - Afffh: Profile defined data
 
-
 ---
 ### Nodes and Networks
 Each device can be referred with Device ID: `<net id><node id>`
@@ -125,8 +126,6 @@ Each device can be referred with Device ID: `<net id><node id>`
 
 ---
 
-
----
 
 ### Selected Profiles Available
 
