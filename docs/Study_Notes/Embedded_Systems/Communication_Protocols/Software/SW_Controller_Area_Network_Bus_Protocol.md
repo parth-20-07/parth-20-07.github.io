@@ -104,6 +104,22 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
 	- Floating, Time, Strings
 	- Domain
 
+### Node Monitoring (Heartbeat)
+
+**Heartbeat / Node Guard State Codes**
+
+These are the **1-byte values** you receive in the data field of a heartbeat message (`COB-ID = 0x700 + NodeID`):
+
+| **Hex** | **Binary** | **NMT State**          | **Description**                                      |
+| ------- | ---------- | ---------------------- | ---------------------------------------------------- |
+| `00`    | `00000000` | **Initializing**       | Power-on or reset; node not yet booted               |
+| `04`    | `00000100` | **Stopped**            | Node is stopped (doesn’t process PDOs, only SDO/NMT) |
+| `05`    | `00000101` | **Operational**        | Fully active – sends/receives PDO, SDO, SYNC, etc.   |
+| `7F`    | `01111111` | **Boot-Up**            | Node just booted – waiting for NMT command           |
+| `7E`    | `01111110` | **Pre-Operational**    | Accepts SDOs, but does not process PDOs or SYNC      |
+| `7D`    | `01111101` | **Unknown** (reserved) | Not standard – may indicate vendor-specific state    |
+
+
 ---
 ### Object Dictionary: Data Addressing
 - Object dictionary is a look-up table type structure which contains the index and subindex which links to the datatype and the description for the object.
@@ -113,6 +129,13 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
 	- 1000h - 1fffh: CANOpen Parameters to configure the CANOpen
 	- 2000h - 5fffh: Manufacturer Specfic data
 	- 6000h - Afffh: Profile defined data
+
+---
+
+### Process Data Object (PDO)
+- Generally in Producer/Consumer format.
+- Node is considered as server/producer with the client being considered as consumer.
+- This is a predetermined table which is used to communicate data at a higher frequency as it allows to club multiple data objects in response/requests and also does not require feedback on successful requests.
 
 ---
 ### Nodes and Networks
