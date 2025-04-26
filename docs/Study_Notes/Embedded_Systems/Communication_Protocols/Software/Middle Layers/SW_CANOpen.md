@@ -1,38 +1,11 @@
 ---
-id: SW_Controller_Area_Network_Bus_Protocol
+id: SW_CANOpen
 aliases:
-  - Controller Area Network Bus Protocol
+  - CANopen
 tags: []
 ---
 
-# Controller Area Network Bus Protocol
-
-## CAN Bus Types
-
-These are lower level protocols which focus on the Physical and Data Link
-
-CAN Physical Data Frame:
-
-![[00_CAN_Data_Frame.png]]
-
-### Types:
-- CAN 2.0A: 11bit ID, 8 byte Data, 1 Mbps
-- CAN 2.0B: 11/29bit ID, 8 byte Data, 1 Mbps
-- CAN FD: 11/29bit ID, 64 byte Data, 10+ Mbps
-- CAN XL: 11/29bit ID, 1500+ byte Data, 10+ Mbps
-
-## CAN Bus Protocols
-
-These are higher level protocol that allow you to use a standard that is heavily adopted by an industry to make the development quicker and easily swapable.
-
-Types:
-- DeviceNet: Industrial I/O
-- SAE J1939: Commercial Vehicles
-- CANOpen: All Applications
-- CANOpen FD: All Applications
-
----
-## CANopen
+# CANopen
 
 Extensive Guide: [YouTube: CANopen Course - EmSA CANopen](https://youtube.com/playlist?list=PLXc1T5NMSXQufsSlsN6unfDxT6ojiK_sn&si=6XUcZh8HnZZHbiwL)
 
@@ -40,7 +13,7 @@ Practical Guide: [YouTube:  CANOpen Node STM32 From basics to coding ](https://y
 
 CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to enable a standardisation and advance features over traditional CAN Protocol.
 
-### Why is it needed?
+## Why is it needed?
 - How do you detect device connectivity (Heartbeat in CANOpen)
 - How do you figure out configuration change? (Configuration of Frequency in CANOpen)
 - Standardisation to connect to any device off-market without requiring special configurations.
@@ -53,7 +26,7 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
  
 ---
 
-### Important Concepts
+## Important Concepts
 
 - **Network Management (NMT)**
 	- Used to execute NMT Services which are used for device initialization, started, monitored or stopped
@@ -95,7 +68,7 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
 **Implementation Link**: [GitHub: C Implement for CANOpenNode](https://github.com/CANopenNode/CANopenNode)
 
 ---
-### Data Definition
+## Data Definition
 
 - CANOpen uses "Little Endian"
 - Datatypes:
@@ -104,7 +77,7 @@ CANOpen is a Higher Layer Protocol (HLP) that is built on top of CAN Protocol to
 	- Floating, Time, Strings
 	- Domain
 
-### Node Monitoring (Heartbeat)
+## Node Monitoring (Heartbeat)
 
 **Heartbeat / Node Guard State Codes**
 
@@ -121,7 +94,7 @@ These are the **1-byte values** you receive in the data field of a heartbeat mes
 
 
 ---
-### Object Dictionary: Data Addressing
+## Object Dictionary: Data Addressing
 - Object dictionary is a look-up table type structure which contains the index and subindex which links to the datatype and the description for the object.
 - It is predefined during the design of a component and follows ISO Standards. Can be generated using EDS Softwares.
 - Index: 16 bits, SubIndex: 8 bits which allows upto 24bit addresses for objects.
@@ -132,13 +105,13 @@ These are the **1-byte values** you receive in the data field of a heartbeat mes
 
 ---
 
-### Process Data Object (PDO)
+## Process Data Object (PDO)
 - Generally in Producer/Consumer format.
 - Node is considered as server/producer with the client being considered as consumer.
 - This is a predetermined table which is used to communicate data at a higher frequency as it allows to club multiple data objects in response/requests and also does not require feedback on successful requests.
 
 ---
-### Nodes and Networks
+## Nodes and Networks
 Each device can be referred with Device ID: `<net id><node id>`
 
 - Nodes:
@@ -148,9 +121,7 @@ Each device can be referred with Device ID: `<net id><node id>`
 	- Upto 255 networks can be connected via bridges
 
 ---
-
-
-### Selected Profiles Available
+## Selected Profiles Available
 
 Readily available standards are available.
 
@@ -169,42 +140,13 @@ CiA Application Profiles:
 - CiA417 Lift Control Systems
 - CiA420/423/424/426/430/433 Train/Rail Vehicle
 
----
-
-## CANOpen FD
-
-USDO Features:
-
-- Max 56 byte single request
-- Max 60 bytes per segment
-- Fully meshed
-
-PDO:
-
-- Max 64 bytes
-
----
-
 ## Resources
 
 ### Theory
 
 [YouTube: CANopen Course - EmSA CANopen](https://youtube.com/playlist?list=PLXc1T5NMSXQufsSlsN6unfDxT6ojiK_sn&si=6XUcZh8HnZZHbiwL)
 
-[Texas Instruments - Introduction to the Controller Area Network (CAN)](https://www.ti.com/lit/an/sloa101b/sloa101b.pdf)
-
-[Typhoon HIL Documentation - CAN Bus protocol](https://www.typhoon-hil.com/documentation/typhoon-hil-software-manual/References/can_bus_protocol.html)
-
-[Can someone explain how to use CANBUS protocol?](https://stackoverflow.com/questions/33569507/can-someone-explain-how-to-use-canbus-protocol)
-
-[CAN Bus: A Beginners Guide Part 1](https://youtu.be/YBrU_eZM110?si=aA5Myy0UNug5AIS1)
-
-[CAN Bus: A Beginners Guide Part 2](https://youtu.be/z5CVljiLhvc?si=EGW0jlv_eU0BY4Zc)
-
-[Arm Semiconductors - CAN Primer: Creating your own Network](https://grouper.ieee.org/groups/msc/upamd/pub_docs/CAN.pdf)
-
 ### Practical Implementation Guide
 
 - [YouTube:  CANOpen Node STM32 From basics to coding ](https://youtu.be/R-r5qIOTjOo?si=hjjJt6-FHXHmk5BB)
 - [GitHub: C Implement for CANOpenNode](https://github.com/CANopenNode/CANopenNode)
-
