@@ -64,10 +64,11 @@ I'm skilled in Sensor Fusion (IMU, Camera, LIDAR), and Visual SLAM, and I have h
 
 ## Projects
 
-[[projects_index |Index]]
+[[projects_index |All Projects]]
 
 ## Products
-[[product_index|Embedded Products]]
+
+[[product_index|All Developed Products]]
 
 ## Education
 ### M.S. Robotics & Automation Engineering
