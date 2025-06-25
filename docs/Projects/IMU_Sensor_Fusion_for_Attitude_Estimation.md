@@ -1,8 +1,8 @@
 ---
-id: IMU_Sensor_Fusion_for_Attitude_Estimation
+id: project
 aliases:
   - IMU Sensor Fusion for Attitude Estimation
-tags: []
+tags:
 ---
 
 # IMU Sensor Fusion for Attitude Estimation

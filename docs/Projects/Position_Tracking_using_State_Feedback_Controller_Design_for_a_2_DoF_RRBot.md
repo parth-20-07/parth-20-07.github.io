@@ -1,8 +1,8 @@
 ---
-id: Position_Tracking_using_State_Feedback_Controller_Design_for_a_2_DoF_RRBot
+id: project
 aliases:
   - Position Tracking using State Feedback Controller Design for a 2 DoF RRBot
-tags: []
+tags:
 ---
 
 

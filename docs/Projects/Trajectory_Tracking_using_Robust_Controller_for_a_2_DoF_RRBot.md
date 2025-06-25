@@ -1,8 +1,8 @@
 ---
-id: Trajectory_Tracking_using_Robust_Controller_for_a_2_DoF_RRBot
+id: project
 aliases:
   - Trajectory Tracking using Robust Controller for a 2 DoF RRBot
-tags: []
+tags:
 ---
 
 # Trajectory Tracking using Robust Controller for a 2 DoF RRBot

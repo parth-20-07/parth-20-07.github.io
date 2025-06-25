@@ -1,8 +1,8 @@
 ---
-id: Pocket_Dust_Monitor
+id: product
 aliases:
   - Pocket Dust Monitor
-tags: []
+tags:
 ---
 
 

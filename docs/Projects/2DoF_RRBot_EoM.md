@@ -1,8 +1,8 @@
 ---
-id: 2DoF_RRBot_EoM
+id: project
 aliases:
   - 2DoF RRBot EoM
-tags: []
+tags:
 ---
 
 

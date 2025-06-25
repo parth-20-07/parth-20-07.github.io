@@ -64,30 +64,10 @@ I'm skilled in Sensor Fusion (IMU, Camera, LIDAR), and Visual SLAM, and I have h
 
 ## Projects
 
-- [Snake Game Using Reinforcement Learning](https://github.com/parth-20-07/Snake-Game-using-Reinforcement-Learning)
-- [[2DoF RRBot EoM]]
-- [[Analytical Convergence Bounds of Distributed Intermittent Swarm Communication]]
-- [[BFS_DFS_and_Djikstra_Search|BFS, DFS and Djikstra Search]]
-- [[Combinational and Sampling Based Motion Planning for MultiAgents]]
-- [[Gearbox Disassembly using RRT Algorithm in 3D Space]]
-- [[IMU Sensor Fusion for Attitude Estimation]]
-- [[Multi-Tier UAV Search and Retrieve]]
-- [[PID based SCARA Robot Position and Velocity Control And Manipulation]]
-- [[Position Tracking using State Feedback Controller Design for a 2 DoF RRBot]]
-- [[RRT and RRT-star Implementation in Unity 3D|RRT and RRT* Implementation in Unity 3D]]
-- [[Robot Teleoperation with Augmented Reality Virtual Surrogates]]
-- [[Sliding Mode Control Based 3D Trajectory Tracking for UAVs]]
-- [[Trajectory Tracking using Robust Controller for a 2 DoF RRBot]]
-- [[Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot]]
+![[projects_index | All Projects]]
 
 ## Products
-- [[BLE Smart Switch|Bluetooth Low Energy Smart Switch]]
-- [[Inventory Management System]]
-- [[Pocket CO2 Monitor]]
-- [[Pocket Dust Monitor]]
-- [[Smart AQI Monitor]]
-- [[Smart Farm Network]]
-- [[Automatic Name Plate]]
+![[product_index|All Developed Products]]
 
 ## Education
 ### M.S. Robotics & Automation Engineering

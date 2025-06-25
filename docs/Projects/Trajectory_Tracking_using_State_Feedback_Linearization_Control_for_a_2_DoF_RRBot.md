@@ -1,8 +1,8 @@
 ---
-id: Trajectory_Tracking_using_State_Feedback_Linearization_Control_for_a_2_DoF_RRBot
+id: project
 aliases:
   - Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot
-tags: []
+tags:
 ---
 
 # Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot

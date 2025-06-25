@@ -1,8 +1,8 @@
 ---
-id: RRT_and_RRT-star_Implementation_in_Unity_3D
+id: project
 aliases:
   - RRT and RRT* Implementation in Unity 3D
-tags: []
+tags:
 ---
 
 # RRT and RRT* Implementation in Unity 3D

@@ -1,8 +1,8 @@
 ---
-id: BFS_DFS_and_Djikstra_Search
+id: project
 aliases:
   - BFS, DFS and Djikstra Search
-tags: []
+tags:
 ---
 
 

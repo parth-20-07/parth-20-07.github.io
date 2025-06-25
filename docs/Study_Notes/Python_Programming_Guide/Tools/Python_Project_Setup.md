@@ -1,8 +1,8 @@
 ---
-id: Project_Setup
+id: 
 aliases:
   - Project Setup
-tags: []
+tags:
 ---
 
 # Project Setup

@@ -1,8 +1,8 @@
 ---
-id: Combinational_and_Sampling_Based_Motion_Planning_for_MultiAgents
+id: project
 aliases:
   - Combinational and Sampling Based Motion Planning for MultiAgents
-tags: []
+tags:
 ---
 
 # Combinational and Sampling Based Motion Planning for MultiAgents

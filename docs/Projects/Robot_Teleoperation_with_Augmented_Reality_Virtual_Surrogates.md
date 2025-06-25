@@ -1,8 +1,8 @@
 ---
-id: Robot_Teleoperation_with_Augmented_Reality_Virtual_Surrogates
+id: project
 aliases:
   - Robot Teleoperation with Augmented Reality Virtual Surrogates
-tags: []
+tags:
 ---
 
 

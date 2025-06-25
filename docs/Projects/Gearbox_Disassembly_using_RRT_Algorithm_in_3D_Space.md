@@ -1,8 +1,8 @@
 ---
-id: Gearbox_Disassembly_using_RRT_Algorithm_in_3D_Space
+id: project
 aliases:
   - Gearbox Disassembly using RRT Algorithm in 3D Space
-tags: []
+tags:
 ---
 
 

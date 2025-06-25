@@ -1,8 +1,7 @@
 ---
-id: Rust_Memory_and_Allocations
-aliases:
-  - Memory and Allocations
-tags: []
+id: rust
+title: Rust Memory and Allocations
+created: 2025-06-25
 ---
 
 # Memory and Allocations

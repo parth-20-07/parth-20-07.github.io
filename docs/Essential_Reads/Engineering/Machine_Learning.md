@@ -1,8 +1,8 @@
 ---
-id: Machine_Learning
+id: ml
 aliases:
   - ML/DL/AI
-tags: []
+tags:
 ---
 
 # ML/DL/AI

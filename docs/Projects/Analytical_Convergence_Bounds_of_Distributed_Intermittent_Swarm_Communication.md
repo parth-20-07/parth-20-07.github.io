@@ -1,8 +1,8 @@
 ---
-id: Analytical_Convergence_Bounds_of_Distributed_Intermittent_Swarm_Communication
+id: project
 aliases:
   - Analytical Convergence Bounds of Distributed Intermittent Swarm Communication
-tags: []
+tags:
 ---
 
 # Analytical Convergence Bounds of Distributed Intermittent Swarm Communication

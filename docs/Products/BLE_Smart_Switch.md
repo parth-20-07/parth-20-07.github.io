@@ -1,8 +1,8 @@
 ---
-id: BLE_Smart_Switch
+id: product
 aliases:
   - Bluetooth Low Energy Smart Switch
-tags: []
+tags:
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-id: Smart_Farm_Network
+id: product
 aliases:
   - Smart Farm Network
-tags: []
+tags:
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-id: Smart_AQI_Monitor
+id: product
 aliases:
   - Smart AQI Monitor
-tags: []
+tags:
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-id: Robotics
+id: robotics
 aliases:
   - Robotics Concepts
-tags: []
+tags:
 ---
 
 # Robotics Concepts

@@ -1,8 +1,8 @@
 ---
-id: Sliding_Mode_Control_Based_3D_Trajectory_Tracking_for_UAVs
+id: project
 aliases:
   - Sliding Mode Control Based 3D Trajectory Tracking for UAVs
-tags: []
+tags:
 ---
 
 # Sliding Mode Control Based 3D Trajectory Tracking for UAVs

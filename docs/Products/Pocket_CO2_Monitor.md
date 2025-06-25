@@ -1,8 +1,8 @@
 ---
-id: Pocket_CO2_Monitor
+id: product
 aliases:
   - Pocket CO2 Monitor
-tags: []
+tags:
 ---
 
 

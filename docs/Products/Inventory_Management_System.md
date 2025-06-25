@@ -1,8 +1,8 @@
 ---
-id: Inventory_Management_System
+id: product
 aliases:
   - Inventory Management System
-tags: []
+tags:
 ---
 
 # Inventory Management System

@@ -1,8 +1,8 @@
 ---
-id: Programming Embedded Systems In C and CPP
+id: embedded_fw
 aliases:
   - Programming Embedded Systems In C and C++
-tags: []
+tags:
 ---
 
 # Programming Embedded Systems In C and C++

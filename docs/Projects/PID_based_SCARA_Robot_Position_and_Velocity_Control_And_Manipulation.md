@@ -1,8 +1,8 @@
 ---
-id: PID_based_SCARA_Robot_Position_and_Velocity_Control_And_Manipulation
+id: project
 aliases:
   - PID based SCARA Robot Position and Velocity Control And Manipulation
-tags: []
+tags:
 ---
 
 # PID based SCARA Robot Position and Velocity Control And Manipulation

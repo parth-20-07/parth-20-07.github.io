@@ -9,29 +9,44 @@
 [[Catalogue list]]
 [[Shopping List]]
 
+---
+
+# High Interest Learning Items
+ - [ ] Rust
+ - [ ] SLAM
+ - [ ] Motion Planning
+ - [ ] RTOS
+ - [ ] FPGA Programming
+ - [ ] CS Fundamentals
+	 - [ ] Networking
+	 - [ ] OS
+	 - [ ] System Design
+ - [ ] Embedded Systems (uC)
+	 - [ ] Circuit Design
+	 - [ ] Firmware Design
 
 ---
-# Yearly Goals
+# 6 Month Rules
+1. Focus on only 2 high interest items at once
+2. Gym is mandatory
+3. Look for job roles on side
+4. Focus on building a side career
+5. Read More Books and write notes on them
+	- [ ] 12 Rules for Life
+	- [ ] Never Split the difference
 
-- [ ]  5K Run Completion
-- [x]  Reach $10k Investment
-- [x]  Reach $5k Emergency Funds
-- [ ]  Finish 12 Rules for Life
----
-# Finances Tracker
-## Monthly
-
-- YouTube ($7.99)
-## Annual
-
-- Spark Email ($59.99) - June 30th 2025
-- Morgen Calender ($48) - June 28th 2025
-- Walmart + Paramount ($98) - December 14th 2024
-
----
-# Fun Things To-Do:
-
-- [Golden Dog Farm Vermont selling maple syrup and honey](https://goldendogfarm.com/)
+## Priority List for high Interest Items
+ 
+| Priority | Item 1                                          | Item 2                                              |
+| -------- | ----------------------------------------------- | --------------------------------------------------- |
+| 1.       | Rust                                            | Motion Planning                                     |
+| 2.       | CS Fundamentals: Networking                     | SLAM                                                |
+| 3.       | CS Fundamentals: OS                             | Zephyr RTOS                                         |
+| 4.       | CS Fundamentals: Concurrency and Multithreading | FPGA                                                |
+| 5.       | Embedded uC firmware                            | Analog Design Fundamentals                          |
+|          |                                                 | Digital Design Fundamentals                         |
+|          |                                                 | Circuit Design Software and PCB Design Fundamentals |
+ 
 
 ---
 # Driving Test

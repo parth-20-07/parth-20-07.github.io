@@ -1,8 +1,8 @@
 ---
-id: 5_Software_Architecture_for_Projects
+id: 
 aliases:
   - Software Architecture for Projects
-tags: []
+tags:
 ---
 
 

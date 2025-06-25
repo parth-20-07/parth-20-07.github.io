@@ -1,8 +1,8 @@
 ---
-id: Automatic_Name_Plate
+id: product
 aliases:
   - Automatic Name Plate
-tags: []
+tags:
 ---
 
 # Automatic Name Plate
