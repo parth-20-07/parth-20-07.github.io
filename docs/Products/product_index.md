@@ -1,9 +1,7 @@
 ---
 id: product
 ---
-# Index
-
-## Embedded Products
+# Embedded Products
 
 - [[Automatic_Name_Plate|Automatic Name Plate]]
 - [[BLE_Smart_Switch|Bluetooth Low Energy Smart Switch]]

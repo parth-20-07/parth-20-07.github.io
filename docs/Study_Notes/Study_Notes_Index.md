@@ -2,18 +2,15 @@
 
 ## Programming Languages
 
-![[rust_programming_language_index]]
-
-![[cpp_programming_language_index]]
-
-![[Lua_Embedding]]
-
-![[python_programming_language_index]]
+- [[rust_programming_language_index|Rust]]
+- [[cpp_programming_language_index|C++]]
+- [[Lua_Embedding|Lua]]
+- [[python_programming_language_index|Python]]
 
 ## Embedded Systems
 
-![[embedded_systems_index]]
+- [[embedded_systems_index|Embedded Systems Index]]
 
 ## Robotics
 
-![[robotics_index]]
+- [[robotics_index|Robotics Index]]
