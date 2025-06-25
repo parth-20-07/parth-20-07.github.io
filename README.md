@@ -4,13 +4,6 @@
 
 ---
 
-[[Job Application Tracker]]
-[[Movie List|Movie/Series List]]
-[[Catalogue list]]
-[[Shopping List]]
-
----
-
 # High Interest Learning Items
  - [ ] Rust
  - [ ] SLAM

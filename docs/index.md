@@ -62,12 +62,9 @@ I'm skilled in Sensor Fusion (IMU, Camera, LIDAR), and Visual SLAM, and I have h
 
 - Deployed, Tested and Analyzed innovative SLAM technologies, including LIMO, LVI-SAM, LIO-SAM, VINS-MONO, Faster-LIO, LOAM, and EMV-LIO, to benchmark their performance and finding key metrics such as accuracy, environment layout, and robustness under various conditions while critically analyzing and adapting these frameworks to enhance their functionality and performance.
 
-## Projects
+## [[projects_index | All Projects]]
 
-![[projects_index | All Projects]]
-
-## Products
-![[product_index|All Developed Products]]
+## [[product_index|All Developed Products]]
 
 ## Education
 ### M.S. Robotics & Automation Engineering
