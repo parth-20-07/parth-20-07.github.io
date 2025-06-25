@@ -2,7 +2,7 @@
 
 ## Programming Languages
 
-- [[rust_programming_language_index|Rust]]
+- [[rust_index|Rust]]
 - [[cpp_programming_language_index|C++]]
 - [[Lua_Embedding|Lua]]
 - [[python_programming_language_index|Python]]
