@@ -1,3 +1,9 @@
+---
+id: embedded_hw
+title: CAN Bus Protocol
+---
+
+
 # CAN Bus Communication
 
 ## Concepts

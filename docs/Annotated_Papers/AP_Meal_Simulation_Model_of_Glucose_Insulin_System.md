@@ -1,8 +1,7 @@
 ---
-id: AP_Meal_Simulation_Model_of_Glucose_Insulin_System
+id: papers
 aliases:
   - Meal Simulation Model of Glucose - Insulin System
-tags: []
 ---
 
 # Meal Simulation Model of Glucose - Insulin System

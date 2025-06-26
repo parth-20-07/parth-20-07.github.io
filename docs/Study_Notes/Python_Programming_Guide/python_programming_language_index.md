@@ -1,10 +1,13 @@
 ---
-id: 
-title: 
-created: 
-date: 'tp.date.now(format: string = "YYYY-MM-DD", offset?: number⎮string, reference?: string, reference_format?: string)'
+id: python
+title: Python Index
+created: 2025-06-26
 ---
-
+**Table of Contents**
 
 ```table-of-contents
 ```
+
+# Tools
+- [[python_project_stup|Project Setup]]
+- [[python_testing|Python Testing]]

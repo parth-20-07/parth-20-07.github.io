@@ -1,8 +1,8 @@
 ---
-id: 4_Programming_Without_IDE
+id: embedded
 aliases:
   - 4. Programming without IDE
-tags: []
+tags:
 ---
 
 

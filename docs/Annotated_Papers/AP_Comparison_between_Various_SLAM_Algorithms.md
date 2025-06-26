@@ -1,8 +1,7 @@
 ---
-id: AP_Comparison_between_Various_SLAM_Algorithms
+id: papers
 aliases:
   - Comparison between Various SLAM Algorithms
-tags: []
 ---
 
 # Comparison between Various SLAM Algorithms

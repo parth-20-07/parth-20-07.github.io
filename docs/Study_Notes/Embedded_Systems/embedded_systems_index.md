@@ -1,9 +1,9 @@
 ---
-id: index
+id: embedded
 aliases:
   - Embedded Systems Software Design
   - Embedded Systems Design
-tags: []
+tags:
 ---
 
 # Embedded Systems Design
@@ -14,6 +14,8 @@ tags: []
 ## Design Guides
 
 - [[0_Complete_Guide | Embedded Systems Design Guide]]
+- [[custom_makefile_and_register_programming|Design from Scratch using Custom Makefiles and Register Programming]]
+- [[programming_embedded_systems_in_c_cpp|Programming Embedded Systems In C and C++]]
 
 --- 
 
@@ -21,12 +23,12 @@ tags: []
 
 ## Frameworks
 
-- [[PlatformIO]]
+- [[platformio]]
 
 ### Bare Metal Programming
 
-- [[BMP_Project_Setup | Project Setup]]
-- [[BMP_AVR_C | AVR-C]]
+- [[embedded_project_setup| Project Setup]]
+- [[bare_metal_avr_c| AVR-C]]
 
 ### Communication Protocols
 
@@ -41,36 +43,39 @@ tags: []
 ## Embedded Hardware Development
 
 ### Design Software
-
-- [[SG_Altium_Designer|Altium Designer]]
+- [[altium_designer|Altium Designer]]
+- [[kicad|KiCAD]]
 
 ### Communication Protocols
 
 - [[HW_I2C | I2C: Two-Wire Serial Communication]]
+- [[HW_CAN|CAN: Controller Area Network]]
 
 ### Circuit Design Concepts
-- [[CDG_ESD_Protection|ESD Protection]]
-- [[CDG_PCB_Silkscreen_and_Solder_Mask|PCB Silkscreen and Solder Mask]]
-- [[CDG_PCB_Vias|PCB Vias]]
-- [[CDG_Proper_Grounding|Proper Grounding]]
-- [[CGD_PCB_Build-up_and_Stack-Up|PCB Build-up and Stack-Up]]
+- [[esd_protection|ESD Protection]]
+- [[pcb_silkscreen_and_soldermask|PCB Silkscreen and Solder Mask]]
+- [[pcb_vias|PCB Vias]]
+- [[pcb_grounding|Proper Grounding]]
+- [[pcb_buildup_and_stackup|PCB Build-up and Stack-Up]]
 
-### Power Design
-- [[CGD_Power_Distribution_Board|Power Distribution System
-- [[PSD_Battery_Design|Battery Design]]
+
+
 
 ---
 ## Component Design Guide
 
-- [[CDG_Switching_Regulators|Switching Regulators]]
+- [[switching_regulators|Switching Regulators]]
 - [Mastering motor control: implementation in C++ - Embedded](https://www.embedded.com/mastering-motor-control-implementation-in-c/)
+## Power Design
+- [[power_distribution_board|Power Distribution System]]
+- [[battery_design|Battery Design]]
 ---
 
 ## Debugging Protocols
 
-- [[CDG_JTAG_Joint_Test_Action_Group|JTAG (Joint Test Action Group)]]
-- [[CDG_OpenOCD_Open_On-Chip_Debugger|OpenOCD Open On-Chip Debugger]]
-- [[CGD_SWD_Serial_Wire_Debug|SWD Serial Wire Debug]]
+- [[jtag|JTAG (Joint Test Action Group)]]
+- [[openocd|OpenOCD Open On-Chip Debugger]]
+- [[swd|SWD Serial Wire Debug]]
 
 ---
 
@@ -79,3 +84,6 @@ tags: []
 - [F´ A Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/
 - [Complete Course on Embedded System for Medical Devices](https://mlp6.github.io/Embedded-Medical-Devices/)
 - [How to Present Your Upskilling Journey to Land a Senior Embedded Role](https://shawnhymel.com/2802/how-to-present-your-upskilling-journey-to-land-a-senior-embedded-role/)
+---
+# Textbooks
+- [[embedded_textbooks|Embedded Systems Textbooks]]

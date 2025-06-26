@@ -1,8 +1,7 @@
 ---
-id: AP_Swarm-SLAM_Sparse_Decentralized_Collaborative_Simultaneous_Localization_and_Mapping_Framework_for_Multi-Robot_Systems
+id: papers
 aliases:
   - Swarm-SLAM Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems
-tags: []
 ---
 
 # Swarm-SLAM Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems

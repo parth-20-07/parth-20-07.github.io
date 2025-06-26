@@ -1,8 +1,7 @@
 ---
-id: 0_Complete_Guide
+id: embedded
 aliases:
   - Complete Project Guide
-tags: []
 ---
 
 

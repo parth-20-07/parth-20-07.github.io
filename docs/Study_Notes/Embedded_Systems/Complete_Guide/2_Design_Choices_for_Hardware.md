@@ -1,8 +1,8 @@
 ---
-id: 2_Design_Choices_for_Hardware
+id: embedded
 aliases:
   - 2. Design Choices for Hardware
-tags: []
+tags:
 ---
 
 # 2. Design Choices for Hardware

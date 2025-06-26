@@ -1,8 +1,7 @@
 ---
-id: SW_EtherCAT_Protocol
+id: embedded_fw
 aliases:
   - EtherCAT Protocol
-tags: []
 ---
 
 # EtherCAT Protocol

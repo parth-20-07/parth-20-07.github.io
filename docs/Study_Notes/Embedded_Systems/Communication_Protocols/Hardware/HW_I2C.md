@@ -1,8 +1,7 @@
 ---
-id: HW_I2C
+id: embedded_hw
 aliases:
   - I2C Hardware Design
-tags: []
 ---
 
 # I2C Hardware Design

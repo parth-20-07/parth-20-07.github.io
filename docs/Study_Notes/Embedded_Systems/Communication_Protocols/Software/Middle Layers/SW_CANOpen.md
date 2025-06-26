@@ -1,8 +1,7 @@
 ---
-id: SW_CANOpen
+id: embedded_fw
 aliases:
   - CANopen
-tags: []
 ---
 
 # CANopen

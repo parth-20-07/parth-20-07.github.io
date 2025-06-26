@@ -1,10 +1,9 @@
 ---
-id: SW_Controller_Area_Network_Bus_Protocol
+id: embedded_fw
 aliases:
   - Controller Area Network Bus Protocol
-tags: []
 ---
-- [ ] 
+
 # Controller Area Network Bus Protocol
 
 ## CAN Bus Types

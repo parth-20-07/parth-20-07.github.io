@@ -1,5 +1,5 @@
 ---
-id: 
+id: embedded
 aliases:
   - Software Architecture for Projects
 tags:

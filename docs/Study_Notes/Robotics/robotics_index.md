@@ -29,6 +29,26 @@ id: robotics
 
 - [[northwestern_motion_planning| Modern Robotics - Northwestern Robotics: Basics of Motion Planning]]
 ---
+# Control Systems
+
+## Lecture Series
+
+- [[Controls_Bootcamp_Steve_Brunton | Controls Bootcamp - Steve Brunton]]
+- [Understanding PID Controllers - Michael Hart](https://mikelikesrobots.github.io/blog/understand-pid-controllers/)
+---
+# Autonomous Aerial Vehicles
+
+## Math Concepts
+- [[Interpolation]]
+
+## Sensor Concepts
+- [[IMU_Basics_and_Attitude_Estimation|IMU Basics and Attitude Estimation]]
+
+## Resources
+- [Demystifying Drone Dynamics!](https://towardsdatascience.com/demystifying-drone-dynamics-ee98b1ba882f)
+---
 # Essential Textbooks
 - [[robotics_textbooks|Robotics Textbooks]]
+- [[control_systems_textbooks|Control Systems]]
+- [[maths_textbooks|Mathematics]]
 ---

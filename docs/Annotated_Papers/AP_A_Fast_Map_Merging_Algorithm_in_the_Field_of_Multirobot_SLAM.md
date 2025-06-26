@@ -1,8 +1,7 @@
 ---
-id: AP_A_Fast_Map_Merging_Algorithm_in_the_Field_of_Multirobot_SLAM
+id: papers
 aliases:
   - A Fast Map Merging Algorithm in the Field of Multirobot SLAM
-tags: []
 ---
 
 # A Fast Map Merging Algorithm in the Field of Multirobot SLAM

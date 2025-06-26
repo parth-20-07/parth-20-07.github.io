@@ -1,8 +1,7 @@
 ---
-id: AP_Swarm_SLAM_Challenges_and_Perspectives
+id: papers
 aliases:
   - Swarm SLAM Challenges and Perspectives
-tags: []
 ---
 
 # Swarm SLAM Challenges and Perspectives

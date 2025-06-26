@@ -1,8 +1,7 @@
 ---
-id: AP_SLAM_and_Map_Merging
+id: papers
 aliases:
   - SLAM and Map Merging
-tags: []
 ---
 
 # SLAM and Map Merging

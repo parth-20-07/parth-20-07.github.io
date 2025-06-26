@@ -1,8 +1,8 @@
 ---
-id: 1_Picking_the_Parts
+id: embedded
 aliases:
   - 1. Picking Parts for System
-tags: []
+tags:
 ---
 
 

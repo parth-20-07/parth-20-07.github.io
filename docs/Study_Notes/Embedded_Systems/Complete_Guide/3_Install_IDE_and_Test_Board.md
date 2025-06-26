@@ -1,8 +1,8 @@
 ---
-id: 3_Install_IDE_and_Test_Board
+id: embedded
 aliases:
   - 3. Install an IDE and Perform Hello World
-tags: []
+tags:
 ---
 
 
