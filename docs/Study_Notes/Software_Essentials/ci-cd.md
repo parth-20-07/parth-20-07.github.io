@@ -1,8 +1,8 @@
 ---
-id: PE_CI_CD_Pipelines
+id: sw_essentials
 aliases:
   - CI/CD Pipelines
-tags: []
+tags:
 ---
 
 # CI/CD Pipelines

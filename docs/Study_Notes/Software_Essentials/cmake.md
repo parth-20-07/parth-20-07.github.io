@@ -1,8 +1,8 @@
 ---
-id: PE_CMake
+id: sw_essentials
 aliases:
   - "CMake: A Meta Build System"
-tags: []
+tags:
 ---
 
 # CMake: A Meta Build System

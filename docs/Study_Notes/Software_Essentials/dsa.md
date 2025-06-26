@@ -1,8 +1,8 @@
 ---
-id: PE_DSA
+id: sw_essentials
 aliases:
   - Data Structures and Algorithms
-tags: []
+tags:
 ---
 
 # Data Structures and Algorithms

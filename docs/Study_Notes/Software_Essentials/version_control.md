@@ -1,16 +1,17 @@
 ---
-id: PE_Version_Control
+id: sw_essentials
 aliases:
   - Version Control
-tags: []
 ---
 
+**Table of Contents**
+```table-of-contents
+```
 
-# Version Control
+---
+# Git Configuration
 
-## Git Configuration
-
-### Author Configuration
+## Author Configuration
 
 ```bash
 # Set user info 
@@ -18,7 +19,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@company.com"
 ```
 
-### Connecting Git and GitHub
+## Connecting Git and GitHub
 
 1. Checking for existing SSH keys:    
 2. Generating a new SSH key and adding it to the ssh-agent:
@@ -29,7 +30,8 @@ git config --global user.email "your.email@company.com"
 git clone <repo_url>
 ```
 
-## Git Commit Message Formats
+---
+# Git Commit Message Formats
 
 The Conventional Commits specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history; which makes it easier to write automated tools on top of. This convention dovetails with [SemVer](http://semver.org "http://semver.org"), by describing the features, fixes, and breaking changes made in commit messages.
 
@@ -43,21 +45,19 @@ The commit message should be structured as follows:
 [optional footer(s)]
 ```
 
-### Why Use Conventional Commits
+## Why Use Conventional Commits
 
 - Automatically generating CHANGELOGs.
 - Automatically determining a semantic version bump (based on the types of commits landed).
 - Communicating the nature of changes to teammates, the public, and other stakeholders.
 - Triggering build and publish processes.
 - Making it easier for people to contribute to your projects, by allowing them to explore a more structured commit history.
-    
 
-### Specifications
+## Specifications
 - Everything should be lowercase. Do not use Upper case for type and scope.
+## Structure
 
-### Structure
-
-#### Types
+### Types
 
 - API relevant changes
     - `feat` Commits, which adds or removes a new feature    
@@ -71,23 +71,17 @@ The commit message should be structured as follows:
 - `ops` Commit, which affects operational components like infrastructure, deployment, backup, recovery
 - `chore` Miscellaneous commits e.g. modifying `.gitignore`
 - `wip` Commits that are works in progress. These commits should be squashed into a proper commit before being merged into the `main` branch.
-    
 
-#### Scopes
-
+### Scopes
 The `scope` provides additional contextual information.
-
 - Allowed Scopes depends on the specific project
 - Don't use issue identifiers as scopes
 - Is a **mandatory** part of the format
-    
 
-#### Breaking Changes Indicator
-
+### Breaking Changes Indicator
 Breaking changes should be indicated by an `!` before the `:` in the subject line e.g. `feat(api)!: remove status endpoint.`This is an **optional** part of the format
 
-#### Description
-
+### Description
 The `description` contains a concise description of the change.
 
 - Is a **mandatory** part of the format
@@ -96,21 +90,22 @@ The `description` contains a concise description of the change.
 - Don't capitalize the first letter
 - No dot (`.`) at the end
 
-#### Body
+### Body
 The `body` should include the motivation for the change and contrast this with previous behaviour.
 - Is an **optional** part of the format
 - Use the imperative, present tense: "change" not "changed" nor "changes"
 - This is the place to mention issue identifiers and their relations
 
-#### Footer
+### Footer
 
 The `footer` should contain any information about **Breaking Changes** and is also the place to **reference Issues** this commit refers to.
 - An **optional** part of the format
 - **optionally** references an issue by its ID.
 - **Breaking Changes** should start with the word `BREAKING CHANGES:` followed by a space or two newlines. The rest of the commit message is then used for this.
-    
 
-### Merge Commit
+---
+# Commit Types
+## Merge Commit
 
 ```bash
 Merge branch '<branch name>'
@@ -118,7 +113,7 @@ Merge branch '<branch name>'
 
 Follows default git merge message
 
-### Revert Commit
+## Revert Commit
 
 ```bash
 Revert "<reverted commit subject line>"
@@ -126,13 +121,13 @@ Revert "<reverted commit subject line>"
 
 Follows default git revert message
 
-### Initial Commit
+## Initial Commit
 
 ```bash
 chore: init
 ```
 
-### Examples
+## Examples
 ```
 feat: add email notifications on new direct messages
 ```
@@ -183,110 +178,70 @@ refactor: implement fibonacci number calculation as recursion
 style: remove empty line
 ```
 
-### References
+## References
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [qoomon/conventional-commits-cheatsheet.md](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
-## Branch Management
+---
+# Branch Management
 
-### Protected Branches
-
+## Protected Branches
 - `master` (or `main`) branch is protected
-    
 - Direct pushes to master are **strictly prohibited**
-    
 - All changes must go through Pull Requests
-    
 - Branch protection rules enforce:
-    
-    - Required code review approvals (minimum 1)
-        
+	- Required code review approvals (minimum 1)
     - Passing CI/CD checks
-        
-
 ## Feature Development
-
 1. Always create a new branch for features/fixes
-    
 2. Keep branches focused on single features/issues
-    
 3. Delete branches after successful merge
-    
 
 ## Branch Naming Convention
-
 Format: `<username>/<type>/<description>`
-
 Example: `johndoe/feature/add-login-page`
-
 Types:
-
 - `feature/` - New features
-    
 - `fix/` - Bug fixes
-    
 - `refactor/` - Code refactoring
-    
 - `test/` - Test additions/modifications
-    
-
-## Pull Request Process
-
+---
+# Pull Request Process
 1. Create Branch
-    
     `git checkout -b username/feature/description`
-    
 2. Make Changes
-    
-    `git add . git commit -m "feat: description" git push origin username/feature/description`
-    
+```bash
+git add . git commit -m "feat: description"
+git push origin username/feature/description
+```
 3. Create Pull Request
-    
-    - Use PR template
-        
-    - Fill in all required sections
-        
-    - Link related issues
-        
-    - Add appropriate labels
-        
+	1. Use PR template
+	2. Fill in all required sections
+	3. Link related issues
+	4. Add appropriate labels
+---
+# Code Review Guidelines
 
-## Code Review Guidelines
-
-### For Authors
-
-1. Keep PRs focused and reasonably sized
-    
+## For Authors
+1. Keep PRs focused and reasonably sized 
 2. Self-review before requesting reviews
-    
 3. Respond to all comments
-    
 4. Update PR based on feedback
-    
 5. Resolve conversations once addressed
-    
 
-### For Reviewers
-
+## For Reviewers
 1. Check for:
-    
-    - Code quality and standards
-        
-    - Test coverage
-        
-    - Documentation
-        
-    - Security concerns
-        
+	1. Code quality and standards
+	2. Test coverage
+	3. Documentation
+	4. Security concerns
 2. Provide constructive feedback
-    
 3. Use GitHub's suggestion feature when applicable
-    
+---
+# Git Commands Reference
 
-## Git Commands Reference
-
-### Daily Usage
+## Daily Usage
 
 ```bash
 # Update local master 
@@ -308,9 +263,7 @@ git commit -m "type: description"
 git push origin username/feature/description 
 
 # Update branch with master 
-git checkout username/feature/description 
-git merge master 
-# or 
+git checkout username/feature/description
 git rebase master
 ```
 
@@ -342,17 +295,10 @@ git remote -v
 ## Best Practices
 
 1. Pull latest master before creating new branch
-    
 2. Regularly sync branch with master
-    
 3. Keep commits atomic and focused
-    
-4. Write meaningful commit messages
-    
+4. Write meaningful commit messages    
 5. Squash commits before merging if necessary
-    
 6. Delete branches after merging
-    
 7. Never force push to shared branches
-    
 8. Document significant changes
