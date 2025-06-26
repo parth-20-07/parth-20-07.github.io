@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: s3fvx-3nrxa
-created: 2024-10-08T12:00:32-04:00
