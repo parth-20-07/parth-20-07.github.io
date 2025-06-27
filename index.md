@@ -5,7 +5,6 @@ aliases:
 tags: []
 ---
 # About Me
-
 I'm a Robotics and Embedded Product Development Engineer with extensive experience in designing and deploying embedded hardware and software solutions for early-stage startups. I specialize in creating end-to-end products, from initial requirements gathering to market-ready manufacturing. 
 
 ![[profile.jpg]]
