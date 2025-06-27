@@ -12,12 +12,12 @@ tags:
 
 ## Product Renders
 
-![[ble-sw-1.png]]
-![[ble-sw-2.png]]
-![[ble-sw-3.png]]
-![[ble-sw-4.png]]
+![[ble-sw-1.PNG]]
+![[ble-sw-2.PNG]]
+![[ble-sw-3.PNG]]
+![[ble-sw-4.PNG]]
 ![[ble-sw-5.png]]
-![[ble-sw-edit.png]]
+![[ble-sw-edit.PNG]]
 
 ## Product Schematics
 ![[ble-sw-6.png]]
