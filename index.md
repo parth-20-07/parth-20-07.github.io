@@ -75,7 +75,7 @@ I have been working for 6 years where I work in Robotics from Embedded Domain fo
 - [[product_index|Product I have Made]]
 # Other Items
 - [[annotated_paper_index|Annotated Papers]]
-- [[Study_Notes_Index|My Study Notes]]
+- [[Study Notes|My Study Notes]]
 
 ---
 
