@@ -1,5 +1,3 @@
-```table-of-contents
-```
 
 # Software Engineering Essentials
 ## Version Control and Pipelines
@@ -35,10 +33,63 @@
 
 ---
 # Programming Languages
-- [[rust_index|Rust]]
-- [[cpp_programming_language_index|C++]]
-- [[Lua_Embedding|Lua]]
-- [[python_programming_language_index|Python]]
+## Rust Essential Notes
+
+- [[rust_structs|Structs]]
+- [[rust_ownership|Rust Memory Ownership]]
+
+## C++ Essential Notes
+### Essentials
+
+#### Tools
+
+- [[CPP_Project_Setup|C++ Project Setup]]
+- [[CPP_Debugging|Debugging]]
+- [[CPP_Testing|Testing]]
+- [[CPP_Static_Analysis|Static Analysis]]
+- [[CPP_Makefile|Makefile]]
+- [[cpp_modern_environment|Setting up Modern Environment]]
+- [[CPP_clang_format|Clang Format]]
+
+#### Concepts
+
+- [[CPP_Fundamentals_of_Cpp|Fundamentals of C++]]
+- [[CPP_Multithreading|Multithreading]]
+- [[CPP_Object_Oriented_Programming|Object Oriented Programming]]
+- [[CPP_Function_Overloading|Function Overloading]]
+- [[CPP_Function_Pointers_and_Lambdas|Function Pointers and Lambdas]]
+
+#### Implementation Specifics
+
+- [[CPP_Strings|Strings]]
+
+### Keywords
+
+- [[CPP_new|new]]
+- [[CPP_auto|auto]]
+- [[CPP_Exit_Status|exit Status]]
+
+### Resources
+
+- [[Computer Science |Good Books]]
+- [[CPP_Tips|Tips]]
+- [Borrow Checker, Lifetimes and Destructor Arguments in C++](https://a10nw01f.github.io/post/advanced_compile_time_validation/)
+- [C++ Coding with Neovim - Prateek Raman - CppCon 2022](https://youtu.be/nzRnWUjGJl8?si=d5jGNUrS-7IFn56F)
+## Lua Essential Notes
+
+### Lua Embeddeding
+
+### Resources
+- [Embedding Lua in C - Lucas Klassmann](https://lucasklassmann.com/blog/2019-02-02-embedding-lua-in-c/)
+- [YouTube:  Embedding Lua in C++ #1](https://youtu.be/4l5HdmPoynw?si=IktyQUSzSc_PX2-Z)
+- [YouTube:  Embedding Lua in C++ Part 3: Meh... Just use Sol...](https://youtu.be/ONywOoJC4TQ?si=YTgvVm5dIAMhXFY1)
+ - [YouTube:  CppCon 2017: Andreas Weis “Howling at the Moon: Lua for C++ Programmers”](https://youtu.be/pfwHCiP1HFM?si=l0Jye1itNFBO4_qq)
+
+## Python Essential Notes
+### Tools
+- [[python_project_stup|Project Setup]]
+- [[python_testing|Python Testing]]
+
 ---
 # Embedded Systems
 

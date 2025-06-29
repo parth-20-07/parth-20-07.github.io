@@ -353,9 +353,11 @@ ul {
 }
 
 .markdown-preview-view tbody td {
-  border: none;
+    border: none;
 }
 
 .tag {
-  border-color: var(--primary-700) !important;
+    border-color: var(--primary-700) !important;
 }
+
+
