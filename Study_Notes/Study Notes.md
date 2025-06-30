@@ -101,6 +101,7 @@
 
 ## Design Guides
 
+- [parth-20-07/Embedded-Engineering-Roadmap](https://github.com/parth-20-07/Embedded-Engineering-Roadmap)
 - [[0_Complete_Guide | Embedded Systems Design Guide]]
 - [[custom_makefile_and_register_programming|Design from Scratch using Custom Makefiles and Register Programming]]
 - [[programming_embedded_systems_in_c_cpp|Programming Embedded Systems In C and C++]]
@@ -171,6 +172,8 @@
 - [F´ A Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/)
 - [Complete Course on Embedded System for Medical Devices](https://mlp6.github.io/Embedded-Medical-Devices/)
 - [How to Present Your Upskilling Journey to Land a Senior Embedded Role](https://shawnhymel.com/2802/how-to-present-your-upskilling-journey-to-land-a-senior-embedded-role/)
+- [knmcguire/best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
+	- Pegasus Simulator (🥈15 · ⭐ 480) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more. BSD-3
 
 ---
 
