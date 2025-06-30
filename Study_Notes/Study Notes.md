@@ -32,12 +32,13 @@
 [[cs_textbooks|Computer Science and Software Development]]
 
 ---
+---
 # Programming Languages
 ## Rust Essential Notes
 
 - [[rust_structs|Structs]]
 - [[rust_ownership|Rust Memory Ownership]]
-
+---
 ## C++ Essential Notes
 ### Essentials
 
@@ -75,6 +76,7 @@
 - [[CPP_Tips|Tips]]
 - [Borrow Checker, Lifetimes and Destructor Arguments in C++](https://a10nw01f.github.io/post/advanced_compile_time_validation/)
 - [C++ Coding with Neovim - Prateek Raman - CppCon 2022](https://youtu.be/nzRnWUjGJl8?si=d5jGNUrS-7IFn56F)
+---
 ## Lua Essential Notes
 
 ### Lua Embeddeding
@@ -84,12 +86,13 @@
 - [YouTube:  Embedding Lua in C++ #1](https://youtu.be/4l5HdmPoynw?si=IktyQUSzSc_PX2-Z)
 - [YouTube:  Embedding Lua in C++ Part 3: Meh... Just use Sol...](https://youtu.be/ONywOoJC4TQ?si=YTgvVm5dIAMhXFY1)
  - [YouTube:  CppCon 2017: Andreas Weis “Howling at the Moon: Lua for C++ Programmers”](https://youtu.be/pfwHCiP1HFM?si=l0Jye1itNFBO4_qq)
-
+---
 ## Python Essential Notes
 ### Tools
 - [[python_project_stup|Project Setup]]
 - [[python_testing|Python Testing]]
 
+---
 ---
 # Embedded Systems
 
@@ -149,7 +152,7 @@
 
 - [[switching_regulators|Switching Regulators]]
 - [Mastering motor control: implementation in C++ - Embedded](https://www.embedded.com/mastering-motor-control-implementation-in-c/)
-## Power Design
+## Power System Design
 - [[power_distribution_board|Power Distribution System]]
 - [[battery_design|Battery Design]]
 
@@ -175,5 +178,49 @@
 - [[embedded_textbooks|Embedded Systems Textbooks]]
 
 ---
+---
 # Robotics
-- [[robotics_index|Robotics Index]]
+## Basics
+- [ROB 530 W22 - Mobile Robotics - uMich](https://youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F&si=9wCuuhWIk-P6_o--)
+
+---
+
+## ROS Resources
+
+- [ROSBag Resources](https://gist.github.com/kscottz/bf38cfd7508928c5bed0c07ecc326d5f)
+
+---
+## SLAM
+### Resources
+- [MIT16.485 - Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/)
+- [Taeyoung96/SLAM-Resources-for-Beginner](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner)
+- [[slam_for_dummies.pdf|SLAM for Dummies - Søren Riisgaard and Morten Rufus Blas]]
+- [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e)
+---
+## Motion Planning
+### Basics
+
+- [[northwestern_motion_planning| Modern Robotics - Northwestern Robotics: Basics of Motion Planning]]
+---
+## Control Systems
+
+### Lecture Series
+
+- [[Controls_Bootcamp_Steve_Brunton |Controls Bootcamp - Steve Brunton]]
+- [Understanding PID Controllers - Michael Hart](https://mikelikesrobots.github.io/blog/understand-pid-controllers/)
+---
+## Autonomous Aerial Vehicles
+
+### Math Concepts
+- [[Interpolation]]
+
+### Sensor Concepts
+- [[IMU_Basics_and_Attitude_Estimation|IMU Basics and Attitude Estimation]]
+
+## Resources
+- [Demystifying Drone Dynamics!](https://towardsdatascience.com/demystifying-drone-dynamics-ee98b1ba882f)
+---
+## Essential Textbooks
+- [[robotics_textbooks|Robotics Textbooks]]
+- [[control_systems_textbooks|Control Systems]]
+- [[maths_textbooks|Mathematics]]
