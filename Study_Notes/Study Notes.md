@@ -222,6 +222,8 @@
 
 ## Resources
 - [Demystifying Drone Dynamics!](https://towardsdatascience.com/demystifying-drone-dynamics-ee98b1ba882f)
+- [RBE595-F02-ST: Hands-On Autonomous Aerial Robotics](https://pear.wpi.edu/teaching/rbe595/fall2023.html)
+
 ---
 ## Essential Textbooks
 - [[robotics_textbooks|Robotics Textbooks]]
