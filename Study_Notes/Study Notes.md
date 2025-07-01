@@ -72,7 +72,8 @@
 
 ### Resources
 
-- [[Computer Science |Good Books]]
+- [Modern C++ Guide](https://www.modernescpp.com/index.php/table-of-content/)
+- [[cs_textbooks|Computer Science and Software Development]]
 - [[CPP_Tips|Tips]]
 - [Borrow Checker, Lifetimes and Destructor Arguments in C++](https://a10nw01f.github.io/post/advanced_compile_time_validation/)
 - [C++ Coding with Neovim - Prateek Raman - CppCon 2022](https://youtu.be/nzRnWUjGJl8?si=d5jGNUrS-7IFn56F)
@@ -203,7 +204,7 @@
 ## Motion Planning
 ### Basics
 
-- [[northwestern_motion_planning| Modern Robotics - Northwestern Robotics: Basics of Motion Planning]]
+- [[northwestern_motion_planning|Modern Robotics - Northwestern Robotics: Basics of Motion Planning]]
 ---
 ## Control Systems
 
